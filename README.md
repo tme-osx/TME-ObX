@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/fenar/TME-AIX/main/images/tme-obx.png" width="321"/>
 </div>
 
-# Telco Media Entertainment Observability eXperiments (TME-AIX)
+# Telco Media Entertainment Observability eXperiments (TME-ObX)
 Welcome to the **TME-ObX** collaborative experimental workspace. <br>
 This repository is dedicated to observing PaaS/CaaS layer(s) together with Application (VNF, CNF etc) Pro-active Monitoring.
 
