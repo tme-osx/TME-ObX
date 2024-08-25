@@ -16,7 +16,7 @@ C. [Observability-101](https://medium.com/open-5g-hypercore/episode-xvi-the-eye-
 
 ## Projects
 1.  WIP
-2.   ... {Please Reach Us for Interesting Usecases and Interesting Big Data & Automation Projects}
+2.   ... {Please Reach Us for Interesting Usecases and Interesting Observability & Pro-Active Monitoring Projects}
 
 ## Contact Us
 For collaboration or inquiries about interesting use cases and data mining opportunities, feel free to reach out:
