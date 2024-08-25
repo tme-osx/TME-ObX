@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/fenar/TME-AIX/main/images/TME-AiX-Logo.png" width="321"/>
+    <img src="https://raw.githubusercontent.com/fenar/TME-AIX/main/images/tme-obx.png" width="321"/>
 </div>
 
 # Telco Media Entertainment Observability eXperiments (TME-AIX)
